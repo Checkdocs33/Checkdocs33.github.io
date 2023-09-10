@@ -1,0 +1,68 @@
+Uri: https://my.fundocs.net/
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\index.htm
+Content Type: text/html
+
+Uri: https://my.fundocs.net/css/app.0b2d01a6.css
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\css\app.0b2d01a6.css
+Content Type: text/css
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-Bold.de553052.ttf
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\fonts\e-Ukraine-Bold.de553052.ttf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-Light.e15911d8.otf
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\fonts\e-Ukraine-Light.e15911d8.otf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-Medium.e265d080.ttf
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\fonts\e-Ukraine-Medium.e265d080.ttf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-Regular.945426f5.otf
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\fonts\e-Ukraine-Regular.945426f5.otf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/fonts/e-Ukraine-UltraLight.c127e4aa.ttf
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\fonts\e-Ukraine-UltraLight.c127e4aa.ttf
+Content Type: application/octet-stream
+
+Uri: https://my.fundocs.net/img/icons/apple-touch-icon-152x152.png
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\img\icons\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/icons/favicon-16x16.png
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\img\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/icons/favicon-32x32.png
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\img\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://my.fundocs.net/img/icons/safari-pinned-tab.svg
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\img\icons\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://my.fundocs.net/img/watermark.77afa534.svg
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\img\watermark.77afa534.svg
+Content Type: image/svg+xml
+
+Uri: https://my.fundocs.net/js/app.39262496.js
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\js\app.39262496.js
+Content Type: application/javascript
+
+Uri: https://my.fundocs.net/js/chunk-2d0dea77.9e176534.js
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\js\chunk-2d0dea77.9e176534.js
+Content Type: application/javascript
+
+Uri: https://my.fundocs.net/js/chunk-vendors.1340993e.js
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\js\chunk-vendors.1340993e.js
+Content Type: application/javascript
+
+Uri: https://my.fundocs.net/manifest.json
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\manifest.json
+Content Type: application/json
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854
+File Name: C:\Users\alexs\Desktop\fundocs\my.fundocs.net\beacon.min.js\v8b253dfea2ab4077af8c6f58422dfbfd1689876627854
+Content Type: text/javascript
+
